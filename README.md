@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angelo Darriet</h1>
-<h3 align="center">A data jack of all trades 🃏</h3>
+<h3 align="center">I fix things. Jack of all trades 🃏</h3>
 
 - 🔭 I’m currently working on [a Data Science bootcamp at Le Wagon](https://www.lewagon.com/)
 
