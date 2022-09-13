@@ -22,9 +22,7 @@
 
 ## About Me
 
-Hi, I am John Doe. I am an aspiring Data Analyst. Current Data Analyst from California living in Belgium. I spend my time on personal projects and learning more about Python and databases. I am interested in remote work as well as freelance work. If you have an idea for a website or want to upgrade your current website [contact](https://brendamichellle.com/#contact) me and we can discuss your options.
-
-Current Data Analyst from California living in Belgium. I spend my time on personal projects and learning more about Python and databases. I am interested in remote work as well as freelance work. If you have an idea for a website or want to upgrade your current website [contact](https://brendamichellle.com/#contact) me and we can discuss your options.
+Hi, I am Angelo, aspiring Data Scientist living in Amsterdam. When I am not partaking in outdoor hobbies, I spend my time on personal projects and learning more about Python, databases and play around with DevOps tools. I am interested in remote work as well as on site. 
 
 
 ## My Skill Set  
