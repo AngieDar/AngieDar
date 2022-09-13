@@ -20,6 +20,12 @@
 
 <br/>  
 
+## About Me
+
+Hi, I am John Doe. I am an aspiring Data Analyst. Current Data Analyst from California living in Belgium. I spend my time on personal projects and learning more about Python and databases. I am interested in remote work as well as freelance work. If you have an idea for a website or want to upgrade your current website [contact](https://brendamichellle.com/#contact) me and we can discuss your options.
+
+Current Data Analyst from California living in Belgium. I spend my time on personal projects and learning more about Python and databases. I am interested in remote work as well as freelance work. If you have an idea for a website or want to upgrade your current website [contact](https://brendamichellle.com/#contact) me and we can discuss your options.
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -69,6 +75,15 @@
 </div>
 
 </td></tr></table>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngieDar&hide_border=true&layout=compact" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AngieDar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -85,15 +100,7 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngieDar&hide_border=true&layout=compact" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AngieDar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
   
