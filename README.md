@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Angelo. Data Nerd.</div>  
+### <div align="center">Hi, I'm Angelo..</div>  
   
 
 *<div align="center">I think I'm agile, therefore, I am.</div>*  
