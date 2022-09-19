@@ -22,7 +22,7 @@
 
 ## About Me
 
-Hi, I am Angelo, aspiring Data Scientist living in Amsterdam. When I am not partaking in outdoor hobbies, I spend my time on personal projects and learning more about Python, databases and play around with DevOps tools. I am interested in remote work as well as on site. Feel free to reach me on my LinkedIn above.  
+Hi, I am Angelo, Data Engineer living in Amsterdam. When I don't partake in outdoor hobbies, I spend my time on personal projects, learning more about Python, databases and playing around with DevOps tools. I am ready for a new challenge as a Data Engineer in a company where I can grow and simultaneously contribute to the success of your team. 
 
 
 ## My Skill Set  
